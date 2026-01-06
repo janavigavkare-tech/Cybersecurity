@@ -1,0 +1,48 @@
+body {
+        background: url("https://media.istockphoto.com/id/1181403907/vector/cyber-security-and-information-or-network-protection-future-technology-web-services-for.jpg?s=612x612&w=0&k=20&c=b6T8_cNms8RD-AAxFpkfvlBiQE8V6aay7X8_gMpfUXw=") no-repeat fixed;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        color: white;
+    }
+
+    h1 {
+        margin-top: 20px;
+    }
+
+    .box {
+        width: 90%;
+        margin: 40px auto;
+        padding: 20px;
+        border: 2px solid white;
+        border-radius: 15px;
+        background: rgba(0, 0, 0, 0.5);
+        overflow: auto;
+    }
+
+    .image {
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 15px;
+        border-radius: 10px;
+    }
+
+    p {
+	 color:black;
+        font-size: 20px;
+        line-height: 1.6;
+        text-align:center;
+    }
+    .button:hover{
+	background-color:purple;
+	}
+    .button:active{
+	background-color:pink;
+	}
+
+    ul{
+	color:black;
+        font-size: 20px;
+        line-height: 1.6;
+        text-align:left;
+    }
+    
